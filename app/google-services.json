@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "370083630432",
+    "firebase_url": "https://popotoan-rifai.firebaseio.com",
+    "project_id": "popotoan-rifai",
+    "storage_bucket": "popotoan-rifai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370083630432:android:3c22418b6619234d",
+        "android_client_info": {
+          "package_name": "com.example.intel.rifai_1202152169_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370083630432-nhspaapuruija5lb4i399c3ttlu9s0us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4MZSuNTj9nrkd1iCPLpXcr-RLW2v2DA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
